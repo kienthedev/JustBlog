@@ -1,0 +1,14 @@
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM01\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.deps.json
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM01\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.runtimeconfig.json
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM01\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.dll
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM01\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.pdb
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM01\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.csproj.AssemblyReference.cache
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM01\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM01\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.AssemblyInfoInputs.cache
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM01\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.AssemblyInfo.cs
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM01\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.csproj.CoreCompileInputs.cache
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM01\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.dll
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM01\FA.JustBlog.Core\obj\Debug\net6.0\refint\FA.JustBlog.Core.dll
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM01\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.pdb
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM01\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.genruntimeconfig.cache
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM01\FA.JustBlog.Core\obj\Debug\net6.0\ref\FA.JustBlog.Core.dll
